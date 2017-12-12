@@ -1,0 +1,19 @@
+{
+  "name": "graphqlhelloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Dylan Stewart <joseph.d.stewart@jpl.nasa.gov>",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^0.3.3",
+    "apollo-server-express": "^1.2.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "graphql": "^0.11.7",
+    "graphql-tools": "^2.12.0"
+  }
+}
